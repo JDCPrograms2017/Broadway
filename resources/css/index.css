@@ -1,0 +1,10 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+#top-title {
+  color: white;
+  font-weight: bold;
+  font-size: 70px;
+}
