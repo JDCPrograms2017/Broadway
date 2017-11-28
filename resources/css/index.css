@@ -7,4 +7,5 @@ body {
   color: white;
   font-weight: bold;
   font-size: 70px;
+  background-image: image(./resources/images/the-flatiron-building.png);
 }
