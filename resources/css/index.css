@@ -16,7 +16,7 @@ body {
   font-size: 32px;
   font-weight: bold;
 }
-#page-links.top-menu {
+#page-links .top-menu {
   color: white;
   font-size: 18px;
 }
