@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 
-.top-menu {
+#top-menu {
   color: white;
   font-weight: bold;
   font-size: 70px;
@@ -19,5 +19,4 @@ body {
 #page-links {
   color: white;
   font-size: 18px;
-
 }
