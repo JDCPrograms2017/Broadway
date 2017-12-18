@@ -18,7 +18,7 @@ body {
   font-size: 32px;
   font-weight: bold;
 }
-#page-links p {
+#page-links p a {
   color: white;
   font-size: 18px;
 }
